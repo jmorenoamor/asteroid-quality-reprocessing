@@ -1,0 +1,9 @@
+{
+  "name": "asteroid-reprocessing-quality",
+  "version": "1.0.0",
+  "title": "Allow quality modules back in Asteroid Reprocessing",
+  "author": "Jesús Moreno Amor",
+  "description": "Ensures quality modules can be used in asteroid reprocessing recipes.",
+  "dependencies": ["base", "space-age", "quality"],
+  "factorio_version": "2.0"
+}
