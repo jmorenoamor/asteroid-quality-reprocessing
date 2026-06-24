@@ -1,9 +1,9 @@
 {
   "name": "asteroid-quality-reprocessing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "Asteroid quality reprocessing",
   "author": "Jesús Moreno Amor",
   "description": "Allow quality modules back in asteroid crushers' asteroid reprocessing recipes after 2.1",
   "dependencies": ["base", "space-age", "quality"],
-  "factorio_version": "2.0"
+  "factorio_version": "2.1"
 }
